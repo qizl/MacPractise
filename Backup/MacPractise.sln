@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacPractise", "MacPractise\MacPractise.csproj", "{B2A2D52E-95CC-4DB0-B268-BF8C8651E805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacPractise.Tests", "MacPractise.Tests\MacPractise.Tests.csproj", "{7AC7EC5B-8B6E-41AB-974C-9D069A0C5080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A2D52E-95CC-4DB0-B268-BF8C8651E805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A2D52E-95CC-4DB0-B268-BF8C8651E805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A2D52E-95CC-4DB0-B268-BF8C8651E805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A2D52E-95CC-4DB0-B268-BF8C8651E805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC7EC5B-8B6E-41AB-974C-9D069A0C5080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC7EC5B-8B6E-41AB-974C-9D069A0C5080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC7EC5B-8B6E-41AB-974C-9D069A0C5080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC7EC5B-8B6E-41AB-974C-9D069A0C5080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
